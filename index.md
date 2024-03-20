@@ -27,7 +27,8 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 ## Publications
 
-**Changfu Jia**, Qiang Lai, Yiman Zhu, Jiajun Feng, Xuming Dan, Yulin Zhang, Zhiqin Long, Jiali Wu, Zeng Wang, Xiner Qumu, Rui Wang, Jing Wang (2024) Intergrative metabolomic and transcriptomic analyses reveal the potential regulatory mechanism of unique dihydroxy fatty acid biosynthesis in the seeds of an industrial oilseed crop Orychophragmus violaceus. <a href="https://doi.org/10.1186/s12864-023-09906-0" target="_black">BMC genomics 25: 29</a>
+**Changfu Jia**, Qiang Lai, Yiman Zhu, Jiajun Feng, Xuming Dan, Yulin Zhang, Zhiqin Long, Jiali Wu, Zeng Wang, Xiner Qumu, Rui Wang, Jing Wang (2024) Intergrative metabolomic and transcriptomic analyses reveal the potential regulatory mechanism of unique dihydroxy fatty acid biosynthesis in the seeds of an industrial oilseed crop Orychophragmus violaceus. <a href="https://doi.org/10.1186/s12864-023-09906-0" target="_black">BMC genomics 25: 29</a> **[IF=4.4]** 
+
 **Changfu Jia**, Yukang Hou, Qiang Lai, Yuling Zhang, Rui Wang, Jianquan Liu, Jing Wang (2023) A reference genome and its epigenetic landscape of potential Orychophragmus violaceus, an industrial crop species. <a href="https://www.biorxiv.org/content/10.1101/2023.09.21.558835v1.abstract" target="_black">BioRxiv</a>
 
 
