@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I completed my master's degree at Sichuan University, where I conducted research under the supervision of Jing Wang and Jianquan Liu. My research primarily focused on the evolutionary impact of whole-genome duplication (WGD) in plant species. Currently, I am employed as a Research Assistant in Jing Wang's lab.
+I completed my master degree at Sichuan University, where I conducted research under the supervision of Jing Wang and Jianquan Liu. My research primarily focused on the evolutionary impact of whole-genome duplication (WGD) in plant. Currently, I am employed as a Research Assistant in Jing Wang's lab.
 
 I have received an official offer to join the University of British Columbia (UBC) in September 2024, working in the lab of Judith Mank.
 
