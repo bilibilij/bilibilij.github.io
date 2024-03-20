@@ -25,6 +25,9 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - **Functional Data Analysis:** functional regression, and clustering methods
 - **Precision Medicine:** subpopulation identification, and personalized recommendation and treatment effect estimation
 
+## Publications
+
+Changfu Jia, Qiang Lai, Yiman Zhu, Jiajun Feng, Xuming Dan, Yulin Zhang, Zhiqin Long, Jiali Wu, Zeng Wang, Xiner Qumu, Rui Wang, Jing Wang (2024) Intergrative metabolomic and transcriptomic analyses reveal the potential regulatory mechanism of unique dihydroxy fatty acid biosynthesis in the seeds of an industrial oilseed crop Orychophragmus violaceus.<a href="https://doi.org/10.1186/s12864-023-09906-0" target="_black"> BMC genomics 25: 29</a>
 
 ## Awards
 - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
