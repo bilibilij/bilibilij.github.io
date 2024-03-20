@@ -19,11 +19,11 @@ description: 在这里输入网页描述.
 canonical: https://minimal-light-theme.yliu.me/
 
 # 链接
-google_scholar: https://scholar.google.com/
-cv_link: files/Curriculum_Vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=hW83xEsAAAAJ&view_op=list_works&sortby=pubdate
+#cv_link: files/Curriculum_Vitae.pdf
+github_link: https://github.com/bilibilij/
+#linkedin: https://www.linkedin.com/
+#twitter: https://twitter.com/
 
 # 图片路径
 avatar: ./assets/img/avatar.png
