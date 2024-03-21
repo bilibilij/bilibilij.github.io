@@ -24,14 +24,14 @@ google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=hW83xEsAAAAJ&
 github_link: https://github.com/bilibilij/
 #linkedin: https://www.linkedin.com/
 #twitter: https://twitter.com/
-#researchGate: https://www.researchgate.net/profile/Changfu-Jia
 researchGate: https://www.researchgate.net/profile/Changfu-Jia
+#researchGate: https://www.researchgate.net/profile/Changfu-Jia
 
 
 # 图片路径
 avatar: ./assets/img/personal.jpg
-favicon: ./assets/img/Guppy_cartoon4.png
-favicon_dark: ./assets/img/Guppy_cartoon4.png
+favicon: ./assets/img/Guppy.jpg
+favicon_dark: ./assets/img/Guppy.jpg
 
 # Google Analytics ID
 google_analytics: UA-111540567-4
