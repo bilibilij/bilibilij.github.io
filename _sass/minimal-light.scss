@@ -145,6 +145,10 @@ a.no-color {
   background-color: #0077B5
 }
 
+.researchGate span {
+  background-color: #0077B4
+}
+
 .github span {
   background-color: #000
 }
@@ -178,6 +182,10 @@ email {
   color: #4286f4
 }
 
+.icon-button .icon-researchGate {
+  color: #0077B4;
+}
+
 .icon-button .icon-github {
   color: #000;
 }
@@ -186,6 +194,7 @@ email {
   color: #0077B5
 }
 
+.icon-button:hover .icon-researchGate,
 .icon-button:hover .icon-twitter,
 .icon-button:hover .icon-facebook,
 .icon-button:hover .icon-github,
