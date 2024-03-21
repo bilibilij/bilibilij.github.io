@@ -31,7 +31,7 @@ researchGate: https://www.researchgate.net/profile/Changfu-Jia
 # 图片路径
 avatar: ./assets/img/personal.jpg
 favicon: ./assets/img/Guppy.jpg
-favicon_dark: ./assets/img/favicon-dark.png
+favicon_dark: ./assets/img/Guppy.jpg
 
 # Google Analytics ID
 google_analytics: UA-111540567-4
