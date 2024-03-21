@@ -20,9 +20,9 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # 链接
 google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=hW83xEsAAAAJ&view_op=list_works&sortby=pubdate
-cv_link: files/Curriculum_Vitae.pdf
+#cv_link: files/Curriculum_Vitae.pdf
 github_link: https://github.com/bilibilij/
-#linkedin: https://www.linkedin.com/
+linkedin: https://www.linkedin.com/
 #twitter: https://twitter.com/
 researchGate: https://www.researchgate.net/profile/Changfu-Jia
 
