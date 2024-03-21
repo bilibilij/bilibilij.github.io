@@ -14,7 +14,6 @@ I have received an official offer to join the University of British Columbia (UB
 - **Whole genome duplication** 
 - **Gene duplication** 
 - **Functional genomics** 
-- **Multi-omics** 
 
 ## Education
 - **PhD in Zoology (2024 fall), University of British University of British Columbia**
