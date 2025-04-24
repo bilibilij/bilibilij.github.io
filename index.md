@@ -34,9 +34,9 @@ Qiang Lai, Zeng Wang, **Changfu Jia**, Xiner Qumu, Rui Wang, Zhipeng Zhao, Yao L
 
 #2024
 
-**Changfu Jia**, Qiang Lai, Yiman Zhu, Jiajun Feng, Xuming Dan, Yulin Zhang, Zhiqin Long, Jiali Wu, Zeng Wang, Xiner Qumu, Rui Wang, Jing Wang (2024) Intergrative metabolomic and transcriptomic analyses reveal the potential regulatory mechanism of unique dihydroxy fatty acid biosynthesis in the seeds of an industrial oilseed crop Orychophragmus violaceus. <a href="https://doi.org/10.1186/s12864-023-09906-0" target="_black">BMC genomics</a> 25: 29 **[IF=4.4]** 
+**Changfu Jia**, Qiang Lai, Yiman Zhu, Jiajun Feng, Xuming Dan, Yulin Zhang, Zhiqin Long, Jiali Wu, Zeng Wang, Xiner Qumu, Rui Wang, Jing Wang (2024) Intergrative metabolomic and transcriptomic analyses reveal the potential regulatory mechanism of unique dihydroxy fatty acid biosynthesis in the seeds of an industrial oilseed crop Orychophragmus violaceus. <a href="https://doi.org/10.1186/s12864-023-09906-0" target="_black">BMC genomics</a> 25: 29 
 
-Tingting Shi, Xinxin Zhang, Yukang Hou, **Changfu Jia**, Xuming Dan, Yulin Zhang, Yuanzhong Jiang, Qiang Lai, Jiajun Feng, Jianju Feng, Tao Ma, Jiali Wu, Shuyu Liu, Lei Zhang, Zhiqin Long, Liyang Chen, Nathaniel R Street, Pär K Ingvarsson, Jianquan Liu, Tongming Yin, Jing Wang (2024) The super-pangenome of Populus unveil genomic facets for its adaptation and diversification in widespread forest trees. <a href="https://doi.org/10.1016/j.molp.2024.03.009" target="_black">Molecular Plant</a> **[IF=27.5]** 
+Tingting Shi, Xinxin Zhang, Yukang Hou, **Changfu Jia**, Xuming Dan, Yulin Zhang, Yuanzhong Jiang, Qiang Lai, Jiajun Feng, Jianju Feng, Tao Ma, Jiali Wu, Shuyu Liu, Lei Zhang, Zhiqin Long, Liyang Chen, Nathaniel R Street, Pär K Ingvarsson, Jianquan Liu, Tongming Yin, Jing Wang (2024) The super-pangenome of Populus unveil genomic facets for its adaptation and diversification in widespread forest trees. <a href="https://doi.org/10.1016/j.molp.2024.03.009" target="_black">Molecular Plant</a>
 
 #2023
 
@@ -46,9 +46,9 @@ Liyang Chen, Yuanzhong Jiang, Tingting Shi, **Changfu Jia**, Zhiqin Long, Xinxin
 
 #2022
 
-Yupeng Sang, Zhiqin Long, Xuming Dan, Jiajun Feng, Tingting Shi, **Changfu Jia**, Xinxin Zhang, Qiang Lai, Guanglei Yang, Hongying Zhang, Xiaoting Xu, Huanhuan Liu, Yuanzhong Jiang, Pär K Ingvarsson, Jianquan Liu, Kangshan Mao, Jing Wang (2022) Genomic insights into local adaptation and future climate-induced vulnerability of a keystone forest tree in East Asia. <a href="https://www.nature.com/articles/s41467-022-34206-8#citeas" target="_black">Nature communications</a> 13: 6541 **[IF=16.6]**
+Yupeng Sang, Zhiqin Long, Xuming Dan, Jiajun Feng, Tingting Shi, **Changfu Jia**, Xinxin Zhang, Qiang Lai, Guanglei Yang, Hongying Zhang, Xiaoting Xu, Huanhuan Liu, Yuanzhong Jiang, Pär K Ingvarsson, Jianquan Liu, Kangshan Mao, Jing Wang (2022) Genomic insights into local adaptation and future climate-induced vulnerability of a keystone forest tree in East Asia. <a href="https://www.nature.com/articles/s41467-022-34206-8#citeas" target="_black">Nature communications</a> 13: 6541
 
-Shuyu Liu, Lei Zhang, Yupeng Sang, Qiang Lai, Xinxin Zhang, **Changfu Jia**, Zhiqin Long, Jiali Wu, Tao Ma, Kangshan Mao, Nathaniel R Street, Pär K Ingvarsson, Jianquan Liu, Jing Wang (2022) Demographic History and Natural Selection Shape Patterns of Deleterious Mutation Load and Barriers to Introgression across Populus Genome. <a href="https://doi.org/10.1093/molbev/msac008" target="_black">Molecular Biology and Evolution</a> 39(2): msac008 **[IF=10.7]**
+Shuyu Liu, Lei Zhang, Yupeng Sang, Qiang Lai, Xinxin Zhang, **Changfu Jia**, Zhiqin Long, Jiali Wu, Tao Ma, Kangshan Mao, Nathaniel R Street, Pär K Ingvarsson, Jianquan Liu, Jing Wang (2022) Demographic History and Natural Selection Shape Patterns of Deleterious Mutation Load and Barriers to Introgression across Populus Genome. <a href="https://doi.org/10.1093/molbev/msac008" target="_black">Molecular Biology and Evolution</a> 39(2): msac008
 
-Yukang Hou, Qi Lu, Jianxun Su, Xing Jin, **Changfu Jia**, Lizhe An, Yongke Tian, Yuan Song (2022) Genome-Wide Analysis of the HDAC Gene Family and Its Functional Characterization at Low Temperatures in Tartary Buckwheat (Fagopyrum tataricum). <a href="https://doi.org/10.3390/ijms23147622" target="_black">International Journal of Molecular Sciences</a> 39(2):2022; 23(14):7622 **[IF=0.7]**
+Yukang Hou, Qi Lu, Jianxun Su, Xing Jin, **Changfu Jia**, Lizhe An, Yongke Tian, Yuan Song (2022) Genome-Wide Analysis of the HDAC Gene Family and Its Functional Characterization at Low Temperatures in Tartary Buckwheat (Fagopyrum tataricum). <a href="https://doi.org/10.3390/ijms23147622" target="_black">International Journal of Molecular Sciences</a> 39(2):2022; 23(14):7622 
 
