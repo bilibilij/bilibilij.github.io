@@ -23,13 +23,27 @@ I have received an official offer to join the University of British Columbia (UB
 
 ## Publications
 
-**Changfu Jia**, Qiang Lai, Yiman Zhu, Jiajun Feng, Xuming Dan, Yulin Zhang, Zhiqin Long, Jiali Wu, Zeng Wang, Xiner Qumu, Rui Wang, Jing Wang (2024) Intergrative metabolomic and transcriptomic analyses reveal the potential regulatory mechanism of unique dihydroxy fatty acid biosynthesis in the seeds of an industrial oilseed crop Orychophragmus violaceus. <a href="https://doi.org/10.1186/s12864-023-09906-0" target="_black">BMC genomics</a> 25: 29 **[IF=4.4]** 
+#2025
 
-**Changfu Jia**, Yukang Hou, Qiang Lai, Yuling Zhang, Rui Wang, Jianquan Liu, Jing Wang (2023) A reference genome and its epigenetic landscape of potential Orychophragmus violaceus, an industrial crop species. <a href="https://www.biorxiv.org/content/10.1101/2023.09.21.558835v1.abstract" target="_black">BioRxiv</a>
+Wouter van der Bijl, Jacelyn J. Shu, Versara S. Goberdhan, Linley M. Sherin, **Changfu Jia**, María Cortázar-Chinarro, Alberto Corral-López, Judith E. Mank (2025) Deep learning reveals the complex genetic architecture of a highly polymorphic sexual trait. <a href="https://www.biorxiv.org/content/10.1101/2023.09.29.560175v3.abstract" target="_black">BioRxiv</a>
+
+
+Qiang Lai, Zeng Wang, **Changfu Jia**, Xiner Qumu, Rui Wang, Zhipeng Zhao, Yao Liu, Yukang Hou, Jianquan Liu, Par K Ingvarsson, Jing Wang
+(2025) Evolutionary responses and genomic consequences of polyploidization in natural populations of Orychophragmus. <a href="https://www.biorxiv.org/content/10.1101/2025.03.24.644964v2.abstract" target="_black">BioRxiv</a>
+
+#2024
+
+**Changfu Jia**, Qiang Lai, Yiman Zhu, Jiajun Feng, Xuming Dan, Yulin Zhang, Zhiqin Long, Jiali Wu, Zeng Wang, Xiner Qumu, Rui Wang, Jing Wang (2024) Intergrative metabolomic and transcriptomic analyses reveal the potential regulatory mechanism of unique dihydroxy fatty acid biosynthesis in the seeds of an industrial oilseed crop Orychophragmus violaceus. <a href="https://doi.org/10.1186/s12864-023-09906-0" target="_black">BMC genomics</a> 25: 29 **[IF=4.4]** 
 
 Tingting Shi, Xinxin Zhang, Yukang Hou, **Changfu Jia**, Xuming Dan, Yulin Zhang, Yuanzhong Jiang, Qiang Lai, Jiajun Feng, Jianju Feng, Tao Ma, Jiali Wu, Shuyu Liu, Lei Zhang, Zhiqin Long, Liyang Chen, Nathaniel R Street, Pär K Ingvarsson, Jianquan Liu, Tongming Yin, Jing Wang (2024) The super-pangenome of Populus unveil genomic facets for its adaptation and diversification in widespread forest trees. <a href="https://doi.org/10.1016/j.molp.2024.03.009" target="_black">Molecular Plant</a> **[IF=27.5]** 
 
+#2023
+
+**Changfu Jia**, Yukang Hou, Qiang Lai, Yuling Zhang, Rui Wang, Jianquan Liu, Jing Wang (2023) A reference genome and its epigenetic landscape of potential Orychophragmus violaceus, an industrial crop species. <a href="https://www.biorxiv.org/content/10.1101/2023.09.21.558835v1.abstract" target="_black">BioRxiv</a>
+
 Liyang Chen, Yuanzhong Jiang, Tingting Shi, **Changfu Jia**, Zhiqin Long, Xinxin Zhang, Yupeng Sang, Jianquan Liu, Jing Wang (2023) Chromosomal-level genome assembly of Populus davidiana <a href="https://doi.org/10.1101/2023.07.11.548481" target="_black">BioRxiv</a>
+
+#2022
 
 Yupeng Sang, Zhiqin Long, Xuming Dan, Jiajun Feng, Tingting Shi, **Changfu Jia**, Xinxin Zhang, Qiang Lai, Guanglei Yang, Hongying Zhang, Xiaoting Xu, Huanhuan Liu, Yuanzhong Jiang, Pär K Ingvarsson, Jianquan Liu, Kangshan Mao, Jing Wang (2022) Genomic insights into local adaptation and future climate-induced vulnerability of a keystone forest tree in East Asia. <a href="https://www.nature.com/articles/s41467-022-34206-8#citeas" target="_black">Nature communications</a> 13: 6541 **[IF=16.6]**
 
