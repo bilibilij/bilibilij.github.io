@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I recieved my Bachelor degree from Sichuan Agricultrual Unviersity. Then I moved to Sichuan University and completed my master study in the lab of <a href="https://jingwanglab.org/" target="_black">**Jing Wang**</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=9etBIG0AAAAJ&view_op=list_works&sortby=pubdate" target="_black">**Jianquan Liu**</a>. My master research primarily focused on the gene expression and regulation changes in the rediploidization of a recent Polyploid, Orychophragmus Violaceus. 
+I recieved my Bachelor degree from Sichuan Agricultrual Unviersity. Then I moved to Sichuan University and completed my master study in the lab of <a href="https://jingwanglab.org/" target="_black">**Jing Wang**</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=9etBIG0AAAAJ&view_op=list_works&sortby=pubdate" target="_black">**Jianquan Liu**</a>. My master research primarily focused on the gene expression and regulation changes in the rediploidization of a recent Polyploid, Orychophragmus violaceus. 
 
 In the later year after my graduation of master, I was supported as a Research Assistant by Jing Wang to keep studying WGD and finish my master work.
 
