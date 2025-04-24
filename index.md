@@ -4,13 +4,15 @@ layout: homepage
 
 ## About Me
 
-I completed my master degree at Sichuan University, where I conducted research under the supervision of Jing Wang and Jianquan Liu. My research primarily focused on the evolutionary impact of whole-genome duplication (WGD) in plant. Currently, I am employed as a Research Assistant in <a href="https://jingwanglab.org/" target="_black">**Jing Wang**</a> lab.
+I recieved a Bacholar degree from Sichuan Agricultrual Unviersity. 
+Then I moved to Sichuan University and completed my master study in the lab of <a href="https://jingwanglab.org/" target="_black">**Jing Wang**</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=9etBIG0AAAAJ&view_op=list_works&sortby=pubdate" target="_black">**Jianquan Liu**</a>. My master research primarily focused on the gene expression and regulation changes in the rediploidization of a recent Polyploid, Orychophragmus Violaceus. 
 
-I have received an official offer to join the University of British Columbia (UBC) in September 2024, working in the lab of <a href="https://www.zoology.ubc.ca/mank-lab/" target="_black">**Judith Mank**</a>.
+In the later year after my graduation of master, I was supported as a Research Assistant by Jing Wang to keep studying WGD and finish my master work.
+
+Currently, I pursued my Ph.D journey at University of British Columbia (UBC) in September 2024, working in the lab of <a href="https://www.zoology.ubc.ca/mank-lab/" target="_black">**Judith Mank**</a>. My studies mainly focus on the sex chromosome evolution of guppy and its relatives.
 
 ## Research Interests
 - **Sex Chromosomes Evolution**
-- **Sex differences** 
 - **Whole genome duplication** 
 - **Gene duplication** 
 - **Functional genomics** 
@@ -18,8 +20,8 @@ I have received an official offer to join the University of British Columbia (UB
 ## Experience
 - 2016.09 - 2020.06 : **BSc** in Life Science & Technology, Sichuan Agricultrural University
 - 2020.09 - 2023.06 : **MCs** in Ecology, Sichuan University
-- 2023.06 - present : **Research Assistant** in Wang lab, Sichuan University
-- 2024.09 - future : **PhD** in Zoology, University of British Columbia
+- 2023.06 - 2024.06 : **Research Assistant** in Wang lab, Sichuan University
+- 2024.09 - present : **PhD** in Zoology, University of British Columbia
 
 ## Publications
 
