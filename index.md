@@ -26,7 +26,7 @@ Currently, I pursued my Ph.D journey at University of British Columbia (UBC) in 
 
 #2025
 
-Wouter van der Bijl, Jacelyn J. Shu, Versara S. Goberdhan, Linley M. Sherin, **Changfu Jia**, María Cortázar-Chinarro, Alberto Corral-López, Judith E. Mank (2025) Deep learning reveals the complex genetic architecture of a highly polymorphic sexual trait. <a href="https://www.biorxiv.org/content/10.1101/2023.09.29.560175v3.abstract" target="_black">BioRxiv</a>
+Wouter van der Bijl, Jacelyn J. Shu, Versara S. Goberdhan, Linley M. Sherin, **Changfu Jia**, María Cortázar-Chinarro, Alberto Corral-López, Judith E. Mank (2025) Deep learning reveals the complex genetic architecture of a highly polymorphic sexual trait. <a href="https://www.biorxiv.org/content/10.1101/2023.09.29.560175v3.abstract" target="_black">Nature Ecology&Evolution. Inpress</a>
 
 
 Qiang Lai, Zeng Wang, **Changfu Jia**, Xiner Qumu, Rui Wang, Zhipeng Zhao, Yao Liu, Yukang Hou, Jianquan Liu, Par K Ingvarsson, Jing Wang
