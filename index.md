@@ -26,11 +26,10 @@ Currently, I pursued my Ph.D journey at University of British Columbia (UBC) in 
 
 #2025
 
-Wouter van der Bijl, Jacelyn J. Shu, Versara S. Goberdhan, Linley M. Sherin, **Changfu Jia**, María Cortázar-Chinarro, Alberto Corral-López, Judith E. Mank (2025) Deep learning reveals the complex genetic architecture of a highly polymorphic sexual trait. <a href="https://www.nature.com/articles/s41559-025-02781-w" target="_black"> Nature Ecology&Evolution</a>
-
-
 Qiang Lai, Zeng Wang, **Changfu Jia**, Xiner Qumu, Rui Wang, Zhipeng Zhao, Yao Liu, Yukang Hou, Jianquan Liu, Par K Ingvarsson, Jing Wang
 (2025) Evolutionary History and Genomic Consequences of Polyploidization in Natural Populations of Orychophragmus taibaiensis. <a href="https://academic.oup.com/hr/advance-article/doi/10.1093/hr/uhaf314/8326154" target="_black">Horticulture Research</a>
+
+Wouter van der Bijl, Jacelyn J. Shu, Versara S. Goberdhan, Linley M. Sherin, **Changfu Jia**, María Cortázar-Chinarro, Alberto Corral-López, Judith E. Mank (2025) Deep learning reveals the complex genetic architecture of a highly polymorphic sexual trait. <a href="https://www.nature.com/articles/s41559-025-02781-w" target="_black"> Nature Ecology&Evolution</a>
 
 #2024
 
