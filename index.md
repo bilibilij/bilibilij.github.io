@@ -30,7 +30,7 @@ Wouter van der Bijl, Jacelyn J. Shu, Versara S. Goberdhan, Linley M. Sherin, **C
 
 
 Qiang Lai, Zeng Wang, **Changfu Jia**, Xiner Qumu, Rui Wang, Zhipeng Zhao, Yao Liu, Yukang Hou, Jianquan Liu, Par K Ingvarsson, Jing Wang
-(2025) Evolutionary responses and genomic consequences of polyploidization in natural populations of Orychophragmus. <a href="https://www.biorxiv.org/content/10.1101/2025.03.24.644964v2.abstract" target="_black">BioRxiv</a>
+(2025) Evolutionary History and Genomic Consequences of Polyploidization in Natural Populations of Orychophragmus taibaiensis. <a href="https://academic.oup.com/hr/advance-article/doi/10.1093/hr/uhaf314/8326154" target="_black">Horticulture Research</a>
 
 #2024
 
