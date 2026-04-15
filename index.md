@@ -6,14 +6,20 @@ layout: homepage
 
 I recieved my Bachelor degree from Sichuan Agricultrual Unviersity. Then I moved to Sichuan University and completed my master study in the lab of <a href="https://jingwanglab.org/" target="_black">**Jing Wang**</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=9etBIG0AAAAJ&view_op=list_works&sortby=pubdate" target="_black">**Jianquan Liu**</a>. My master research primarily focused on the gene expression and regulation changes in the rediploidization of a recent Polyploid, Orychophragmus violaceus. 
 
-In the later year after my graduation of master, I was supported as a Research Assistant by Jing Wang to keep studying WGD and finish my master work.
+In the later year after my graduation of master, I was supported as a Research Assistant by Jing Wang to keep studying WGD and finish my master work. 
 
-Currently, I pursued my Ph.D journey at University of British Columbia (UBC) in September 2024, working in the lab of <a href="https://www.zoology.ubc.ca/mank-lab/" target="_black">**Judith Mank**</a>. My studies mainly focus on the sex chromosome evolution of guppy and its relatives.
+Currently, I pursued my Ph.D journey at University of British Columbia (UBC) in September 2024, working in the lab of <a href="https://www.zoology.ubc.ca/mank-lab/" target="_black">**Judith Mank**</a>. 
+My research centers on the evolution of Y chromosomes, with a particular focus on guppy Y chromosomes after recombination ceased with their X homologues. I am especially interested in the genetic mechanisms of recombination and in how recombination is shaped by sex and temperature. I also study the evolutionary origin of a Texim–Helitron complex located at the strongest GWAS peak on the guppy Y chromosome.
+
+More broadly, I aim to understand the remarkable diversity of guppy Y chromosomes by using trio-binning to develop a pan-Y framework and identify Y-linked variants associated with male color pattern variation. In parallel, I study Y chromosome evolution in experimentally selected beetle lines and morph-specific Y chromosome evolution in Poecilia wingei.
+
+I am also broadly interested in the functional roles of transposable elements, particularly how post-WGD TE expansion drives functional innovation in polyploids and how TEs shape the evolution of Y chromosomes.
+
 
 ## Research Interests
 - **Sex Chromosomes Evolution**
 - **Whole genome duplication** 
-- **Gene duplication** 
+- **Function of TE** 
 - **Functional genomics** 
 
 ## Experience
