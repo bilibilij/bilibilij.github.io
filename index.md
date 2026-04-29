@@ -32,7 +32,7 @@ I am also broadly interested in the functional roles of transposable elements, p
 
 #2026
 
-Shi T#, Long T#, Wu J#, Zeng X, Zhu Y, Jia C, Zhou X, Feng J, Wang Z, Dan X, Wang J* (2026). Dynamic reorganization of three-dimensional genome architecture during Populus diversification. Nature Ecology & Evolution. accepted
+Shi T#, Long T#, Wu J#, Zeng X, Zhu Y, Jia C, Zhou X, Feng J, Wang Z, Dan X, Wang J* (2026). Dynamic reorganization of three-dimensional genome architecture during Populus diversification. <a href="https://www.nature.com/articles/s41559-026-03069-3" target="_black">Nature Ecology & Evolution.</a>
 
 Heng Liang, Fuyu Ye, Xiuxiu Sun, Chunmei Wang, Jiali Chen, Tengfei Xia, Shiling Feng, Yidan Wang, Changfu Jia, Xinbo Wu, Wenting Zhang, Huasha Qi, Jian Wang, Daojun Zheng (2026) Analysis of metabolomics and transcriptomics of Camellia drupifera seeds during maturation provides new insights into bioactive compound biosynthesis. <a
 href="https://www.sciencedirect.com/science/article/pii/S2772566926000170?__cf_chl_tk=K57aNVYuuUW8mHm7LdTO90PTdcgTKGS3dSpKN7_NjeM-1776219634-1.0.1.1-mwFaklNHjyVWKfM2B4Ns_uJxBXMpPwUJ1U9KpGAKSM4" target="_black">Journal of Future Foods</a>
